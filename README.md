@@ -1,2 +1,2 @@
 # Delta-Demo
-It is the learning stage of github 
+It is the learning stage of github.
